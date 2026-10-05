@@ -1,0 +1,17 @@
+{
+  "name": "budget.txt Web",
+  "short_name": "budget.txt",
+  "description": "A local-first envelope budgeting app built around the plain-text budget.txt format.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4efe8",
+  "theme_color": "#1f5b4b",
+  "icons": [
+    {
+      "src": "/icons/budget.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

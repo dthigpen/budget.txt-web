@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="budget.txt icon">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1ea37a"/>
+      <stop offset="100%" stop-color="#1f5b4b"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="22" fill="#f4efe8"/>
+  <rect x="18" y="18" width="92" height="92" rx="16" fill="url(#g)"/>
+  <path d="M38 81c8-22 20-33 32-33 12 0 20 8 25 18" fill="none" stroke="#f4efe8" stroke-width="8" stroke-linecap="round"/>
+  <path d="M44 54h18v18H44zm24 0h18v18H68zm-24 24h18v18H44zm24 0h18v18H68z" fill="#f4efe8" opacity="0.95"/>
+</svg>
